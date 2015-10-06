@@ -2782,8 +2782,8 @@ tbody.collapse.in {
 
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url("../fonts/bootstrap/glyphicons-halflings-regular.eot");
-  src: url("../fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("../fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("../fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("../fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg"); }
+  src: url("fonts/bootstrap/glyphicons-halflings-regular.eot");
+  src: url("fonts/bootstrap/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("fonts/bootstrap/glyphicons-halflings-regular.woff2") format("woff2"), url("fonts/bootstrap/glyphicons-halflings-regular.woff") format("woff"), url("fonts/bootstrap/glyphicons-halflings-regular.ttf") format("truetype"), url("fonts/bootstrap/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg"); }
 .glyphicon {
   position: relative;
   top: 1px;
@@ -5639,7 +5639,7 @@ body {
   color: #2c3e50; }
 
 body{
-  background-image:url("../Proyecto/assets/images/fondo.jpg");
+  background-image:url("assets/images/fondo.jpg");
   background-repeat:no-repeat;
   background-size:cover;
 }
@@ -5798,16 +5798,16 @@ a {
 
 @font-face {
   font-family: TelefonicaHeadline-Light;
-  src: url(../Proyecto/fonts/section-fonts/TelefonicaHeadline-Light.otf); }
+  src: url(fonts/section-fonts/TelefonicaHeadline-Light.otf); }
 @font-face {
   font-family: TelefonicaScript;
-  src: url(../Proyecto/fonts/section-fonts/TelefonicaScript.otf); }
+  src: url(fonts/section-fonts/TelefonicaScript.otf); }
 @font-face {
   font-family: TelefonicaText-Bold;
-  src: url(../Proyecto/fonts/header-fonts/TelefonicaText-Bold.otf); }
+  src: url(fonts/header-fonts/TelefonicaText-Bold.otf); }
 @font-face {
   font-family: TelefonicaText-Italic;
-  src: url(../Proyecto/fonts/header-fonts/TelefonicaText-Italic.otf); }
+  src: url(fonts/header-fonts/TelefonicaText-Italic.otf); }
 @font-face {
   font-family: TelefonicaText-Regular;
-  src: url(../Proyecto/fonts/header-fonts/TelefonicaText-Regular.otf); }
+  src: url(fonts/header-fonts/TelefonicaText-Regular.otf); }
